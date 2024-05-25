@@ -8,9 +8,10 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Навигация:
 
    classification
-   results
+   best-results
+   worst-results
 
 
